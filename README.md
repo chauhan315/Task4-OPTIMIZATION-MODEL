@@ -145,14 +145,6 @@ This base model can be extended with:
 
 ---
 
-## File Structure
-
-├── README.md
-├── supply_chain_optimization.ipynb
-
-yaml
-Copy
-Edit
 
 ---
 
